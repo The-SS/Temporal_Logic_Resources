@@ -7,7 +7,7 @@ Resources for Temporal Logic
 
 ## Theses
 - **Hybrid Control of Multi-robot Systems
-under Complex Temporal Tasks** by M. Guo[KTH](http://kth.diva-portal.org/smash/get/diva2:873856/FULLTEXT01.pdf), [DiVA](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A873856&dswid=1816), [guo2015hybrid]([/theses/guo2015hybrid.pdf])
+under Complex Temporal Tasks** by M. Guo [KTH](http://kth.diva-portal.org/smash/get/diva2:873856/FULLTEXT01.pdf), [DiVA](http://www.diva-portal.org/smash/record.jsf?pid=diva2%3A873856&dswid=1816), [guo2015hybrid](/theses/guo2015hybrid.pdf)
 
 ## Papers
 ### Sampling-Based 
